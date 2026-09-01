@@ -1,13 +1,10 @@
-![Kraken, Part of the Octopus Energy Group](https://static.octopuscdn.com/ktl/kraken-logo-w-group-secondary-2022.png)
+![Kraken](images/kraken-logo.png)
 
-Kraken is the world's leading customer & culture platform for energy, water & broadband.
+Kraken is the most-loved and proven operating system for energy. Powered by Utility-Grade AI® and deep industry know-how, we help leading utilities like EDF, Octopus Energy, E.ON Next, Origin, Tokyo Gas and National Grid boost efficiency by up to 40%, triple customer satisfaction, and increase innovation and grid flexibility.
 
-A unique blend of operating model and technology that frees teams from legacy systems and empowers them to act with autonomy on behalf of customers.
-
-A modern, cloud-based architecture with continuous deployments delivers high-speed innovation and access to real-time data.
+Our technology delivers better outcomes from generation through distribution to supply, across 90+ million accounts worldwide. With a proven record for fast, seamless migrations, Kraken is on a mission to make a big, green dent in the universe.
 
 ## Links  
 
 - [Kraken Tech](https://kraken.tech/)
-- [Octopus Energy Group](https://octopusenergy.group/)  
-- [Octopus Energy Blog](https://octopus.energy/blog/)
+- [Kraken Tech Engineering Blog](https://engineering.kraken.tech/)
